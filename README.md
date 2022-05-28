@@ -19,6 +19,9 @@ Technology used: python, pandas, numpy, sklearn, matplotlib, seaborn, nltk, Beau
 
 Technology used: python, pandas, numpy, sklearn, matplotlib, seaborn
 
+**Book Recommendation Output Example**
+
+
 <img src ="https://github.com/patpiet/Books-Reccommender/raw/main/images/example3.PNG">
 
 
@@ -32,8 +35,8 @@ Technology used: python, pandas, numpy, matplotlib, plotly, Dash, json, itransla
 
 **Bar Chart Dashboard**
 
-![alt text](Visualizations/BarDash.gif)
+![alt text](https://github.com/patpiet/Polish_Matura_Data_Analysis/raw/main/Visualizations/BarDash.gif)
 
 **Map Of Poland Graph Dashboard**
 
-![alt text](Visualizations/MapDash.gif)
+![alt text](https://github.com/patpiet/Polish_Matura_Data_Analysis/raw/main/Visualizations/MapDash.gif)
