@@ -29,5 +29,11 @@ Technology used: python, pandas, numpy, sklearn, matplotlib, seaborn
 
 Technology used: python, pandas, numpy, matplotlib, plotly, Dash, json, itranslate
 
-<img src ="https://github.com/patpiet/Polish_Matura_Data_Analysis/raw/main/Visualizations/BarDash.gif">
-<img src ="https://github.com/patpiet/Polish_Matura_Data_Analysis/raw/main/Visualizations/MapDash.gif">
+
+**Bar Chart Dashboard**
+
+![alt text](Visualizations/BarDash.gif)
+
+**Map Of Poland Graph Dashboard**
+
+![alt text](Visualizations/MapDash.gif)
